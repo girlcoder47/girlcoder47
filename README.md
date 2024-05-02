@@ -1,0 +1,3 @@
+- Hi, I’m @girlcoder47. I'm grade10 student in RGSS.
+- I’m interested in computer science and music.
+- I love playing guitar.
